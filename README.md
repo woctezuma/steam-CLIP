@@ -24,9 +24,10 @@ pip install -r requirements.txt
 
 Data is available in [`download-steam-banners-data/`][banner-data-repository].
 
-The most recent data snapshot was downloaded in August 2020 with [this Colab notebook][download_steam_banners].
+The most recent data snapshot was downloaded with [this Colab notebook][download_steam_banners].
 [![Open In Colab][colab-badge]][download_steam_banners]
-It consists of 19,049 **vertical** Steam banners resized from 300x450 to 256x256 resolution.
+
+It consists of **vertical** Steam banners (resolution 300x450), which should be resized to your resolution of choice (256x256, 224x224, or 128x128).
 
 ## Usage
 
