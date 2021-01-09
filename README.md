@@ -4,7 +4,7 @@
 [![Code coverage][codecov-image]][codecov]
 [![Code Quality][codacy-image]][codacy]
 
-This repository contains Python code to retrieve Steam games with similar store banners, using [OpenAI's CLIP][openai-clip] (Contrastive Language-Image Pre-Training).
+This repository contains Python code to retrieve Steam games with similar store banners, using [OpenAI's CLIP][openai-clip].
 
 Image similarity is assessed by the cosine similarity between image features encoded by CLIP.
 
@@ -38,14 +38,14 @@ TODO
 
 ## References
 
--   CLIP:
+-   CLIP (Contrastive Language-Image Pre-Training):
     - [OpenAI's CLIP][openai-clip]
-    - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar store banners, using OpenAI's CLIP (resolution 224),
+    - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
 -   MobileNet v3:
-    - [`match-steam-banners`][banner-repository-mobilenet-v3]: retrieve Steam games with similar store banners, using MobileNet v3 (resolution 256),
+    - [`match-steam-banners`][banner-repository-mobilenet-v3]: retrieve games with similar banners, using MobileNet v3 (resolution 256),
 -   MobileNet v1:
-    - [`download-steam-banners`][banner-repository-mobilenet-v1]: retrieve Steam games with similar store banners, using MobileNet v1 (resolution 128),
-    - [`download-steam-screenshots`][screenshot-repository-mobilenet-v1]: retrieve Steam games with similar store screenshots, using MobileNet v1 (resolution 128).
+    - [`download-steam-banners`][banner-repository-mobilenet-v1]: retrieve games with similar banners, using MobileNet v1 (resolution 128),
+    - [`download-steam-screenshots`][screenshot-repository-mobilenet-v1]: retrieve games with similar screenshots, using MobileNet v1 (resolution 128).
 
 <!-- Definitions -->
 
