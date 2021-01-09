@@ -24,10 +24,12 @@ pip install -r requirements.txt
 
 Data is available in [`download-steam-banners-data/`][banner-data-repository].
 
-The most recent data snapshot was downloaded with [this Colab notebook][download_steam_banners].
+The most recent data snapshot was downloaded with [this Colab notebook][download_steam_banners] on January 9, 2021.
 [![Open In Colab][colab-badge]][download_steam_banners]
 
-It consists of **vertical** Steam banners (resolution 300x450), which should be resized to your resolution of choice (256x256, 224x224, or 128x128).
+This snapshot is shared as an archive (`original_vertical_steam_banners.tar`, 1.5 GB) [on Google Drive][gdrive-banner-data].
+
+It consists of **vertical** Steam banners (300x450 resolution, available for 29982 out of 48792 games, i.e. 61.4% of games).
 
 ## Usage
 
@@ -63,6 +65,8 @@ TODO
 [download-python]: <https://www.python.org/downloads/>
 [banner-data-repository]: <https://github.com/woctezuma/download-steam-banners-data>
 [download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
+
+[gdrive-banner-data]: <https://drive.google.com/drive/folders/1BU8R1JMdzOqc4pzEkpQY6w6FuaretxUH>
 
 [openai-clip]: <https://github.com/openai/CLIP>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
