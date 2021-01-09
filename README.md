@@ -29,7 +29,7 @@ The most recent data snapshot was downloaded with [this Colab notebook][download
 
 This snapshot is shared as an archive (`original_vertical_steam_banners.tar`, 1.5 GB) [on Google Drive][gdrive-banner-data].
 
-It consists of **vertical** Steam banners (300x450 resolution, available for 29982 out of 48792 games, i.e. 61.4% of games).
+It consists of **vertical** Steam banners (300x450 resolution), available for 29982 out of 48792 games, i.e. 61.4% of games.
 
 ## Usage
 
