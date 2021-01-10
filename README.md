@@ -31,6 +31,19 @@ This snapshot is shared as an archive (`original_vertical_steam_banners.tar`, 1.
 
 It consists of **vertical** Steam banners (300x450 resolution), available for 29982 out of 48792 games, i.e. 61.4% of games.
 
+Resized images are provided in the same repository for resolutions 256, 224, 128, 64, etc.
+
+### Filtering out
+
+Information is also provided in `.txt` logs about a possible filtering out of images based on:
+-   blank images: there are 2 images either totally black or totally white,
+-   image size (before resizing images): there is 1 image with resolution 600x900,
+-   image channels (before and after resizing images): most images are RGB, but a few are L or CMYK.
+
+It is up to the reader to filter out the dataset based on these logs.
+Logs can be reproduced with [this Colab notebook][filter_out_steam_banners].
+[![Open In Colab][colab-badge]][filter_out_steam_banners]
+
 ## Usage
 
 TODO
@@ -74,4 +87,5 @@ TODO
 [banner-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-banners>
 [screenshot-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-screenshots>
 
+[filter_out_steam_banners]: <https://colab.research.google.com/github/woctezuma/steam-CLIP/blob/main/filter_out_steam_banners.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
