@@ -38,9 +38,16 @@ The list of appIDs (before any potential filtering) is from [`steam-store-snapsh
 ### Filtering out
 
 Information is also provided in `.txt` logs about a possible filtering out of images based on:
--   blank images: there are 2 images either totally black or totally white,
--   image size (before resizing images): there is 1 image with resolution 600x900,
--   image channels (before and after resizing images): most images are RGB, but a few are L or CMYK.
+-   image size (before resizing images):
+    - there is 1 image with resolution 600x900,
+    - this is not a big issue as the image ratio is equal to the expected ratio for 300x450 images,
+-   image channels (before and after resizing images):
+    - most images are 'RGB' (for true color images) ; total: 29642 images,
+    - a few images are 'L' ('luminance' for greyscale images) ; total: 306 images,
+    - very few images are 'CMYK' (for pre-press images) ; total: 34 images,
+-   blank images:
+    - there are 2 images either totally black (appID: 603280) or totally white (appID: 1076060),
+    - these specific images are not reported about since they already appear in the log w.r.t. image channels.
 
 It is up to the reader to filter out the dataset based on these logs.
 Logs can be reproduced with [this Colab notebook][filter_out_steam_banners].
