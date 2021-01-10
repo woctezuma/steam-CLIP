@@ -33,6 +33,8 @@ It consists of **vertical** Steam banners (300x450 resolution), available for 29
 
 Resized images are provided in the same repository for resolutions 256, 224, 128, 64, etc.
 
+The list of appIDs (before any potential filtering) is from [`steam-store-snapshots`][steam-store-snapshots].
+
 ### Filtering out
 
 Information is also provided in `.txt` logs about a possible filtering out of images based on:
@@ -80,6 +82,7 @@ TODO
 [download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
 
 [gdrive-banner-data]: <https://drive.google.com/drive/folders/1BU8R1JMdzOqc4pzEkpQY6w6FuaretxUH>
+[steam-store-snapshots]: <https://github.com/woctezuma/steam-store-snapshots>
 
 [openai-clip]: <https://github.com/openai/CLIP>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
