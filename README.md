@@ -69,8 +69,8 @@ TODO
       [![Open In Colab][colab-badge]][google-vit-colab]    
     - [Dosovitskiy, Alexey, et al. *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*. 2020.][google-vit-paper]
 -   Open AI's CLIP (Contrastive Language-Image Pre-Training):
-    - [Official Github repository][openai-clip]
     - [Official blog post][openai-blog]
+    - [Official Github repository][openai-clip]
     - [Official Colab notebook][openai-colab]
       [![Open In Colab][colab-badge]][openai-colab]
     - [Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.][openai-paper]      
