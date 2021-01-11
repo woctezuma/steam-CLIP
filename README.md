@@ -63,10 +63,13 @@ TODO
 
 ## References
 
--   CLIP (Contrastive Language-Image Pre-Training):
-    - OpenAI's [CLIP repository][openai-clip]
+-   Google's ViT (Vision Transformer):
+    - [Official Github repository][google-vit-code]
+    - [Official paper][google-vit-paper]: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+-   Open AI's CLIP (Contrastive Language-Image Pre-Training):
+    - [Official Github repository][openai-clip]
     - [Official blog post][openai-blog]
-    - [Official paper draft][openai-paper]
+    - [Official paper draft][openai-paper]: "Learning Transferable Visual Models From Natural Language Supervision"
     - [Official Colab notebook][openai-colab]
       [![Open In Colab][colab-badge]][openai-colab]
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
@@ -94,6 +97,9 @@ TODO
 
 [gdrive-banner-data]: <https://drive.google.com/drive/folders/1BU8R1JMdzOqc4pzEkpQY6w6FuaretxUH>
 [steam-store-snapshots]: <https://github.com/woctezuma/steam-store-snapshots>
+
+[google-vit-code]: <https://github.com/google-research/vision_transformer>
+[google-vit-paper]: <https://arxiv.org/abs/2010.11929>
 
 [openai-clip]: <https://github.com/openai/CLIP>
 [openai-blog]: <https://openai.com/blog/clip/>
