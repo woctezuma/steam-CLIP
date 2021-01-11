@@ -67,6 +67,7 @@ TODO
     - OpenAI's [CLIP repository][openai-clip]
     - [Official blog post][openai-blog]
     - [Official Colab notebook][openai-colab]
+      [![Open In Colab][colab-badge]][openai-colab]
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
 -   MobileNet v3:
     - [`match-steam-banners`][banner-repository-mobilenet-v3]: retrieve games with similar banners, using MobileNet v3 (resolution 256),
