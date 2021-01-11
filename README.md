@@ -66,6 +66,7 @@ TODO
 -   CLIP (Contrastive Language-Image Pre-Training):
     - OpenAI's [CLIP repository][openai-clip]
     - [Official blog post][openai-blog]
+    - [Official paper draft][openai-paper]
     - [Official Colab notebook][openai-colab]
       [![Open In Colab][colab-badge]][openai-colab]
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
@@ -96,6 +97,7 @@ TODO
 
 [openai-clip]: <https://github.com/openai/CLIP>
 [openai-blog]: <https://openai.com/blog/clip/>
+[openai-paper]: <https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf>
 [openai-colab]: <https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
 [banner-repository-mobilenet-v3]: <https://github.com/woctezuma/match-steam-banners>
