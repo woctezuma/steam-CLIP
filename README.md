@@ -65,11 +65,11 @@ TODO
 
 -   Google's ViT (Vision Transformer):
     - [Official Github repository][google-vit-code]
-    - [Official paper][google-vit-paper]: "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    - [Official paper][google-vit-paper]: Dosovitskiy, Alexey, et al. *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*. arXiv 2020.
 -   Open AI's CLIP (Contrastive Language-Image Pre-Training):
     - [Official Github repository][openai-clip]
     - [Official blog post][openai-blog]
-    - [Official paper draft][openai-paper]: "Learning Transferable Visual Models From Natural Language Supervision"
+    - [Official paper draft][openai-paper]: Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.
     - [Official Colab notebook][openai-colab]
       [![Open In Colab][colab-badge]][openai-colab]
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
