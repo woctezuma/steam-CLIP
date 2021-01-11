@@ -69,9 +69,9 @@ TODO
 -   Open AI's CLIP (Contrastive Language-Image Pre-Training):
     - [Official Github repository][openai-clip]
     - [Official blog post][openai-blog]
-    - [Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.][openai-paper]
     - [Official Colab notebook][openai-colab]
       [![Open In Colab][colab-badge]][openai-colab]
+    - [Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.][openai-paper]      
 -   My usage of CLIP:
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
 -   MobileNet v3:
