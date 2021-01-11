@@ -65,7 +65,9 @@ TODO
 
 -   Google's ViT (Vision Transformer):
     - [Official Github repository][google-vit-code]
-    - [Dosovitskiy, Alexey, et al. *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*. arXiv 2020.][google-vit-paper]
+    - [Official Colab notebook][google-vit-colab]
+      [![Open In Colab][colab-badge]][google-vit-colab]    
+    - [Dosovitskiy, Alexey, et al. *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*. 2020.][google-vit-paper]
 -   Open AI's CLIP (Contrastive Language-Image Pre-Training):
     - [Official Github repository][openai-clip]
     - [Official blog post][openai-blog]
@@ -101,6 +103,7 @@ TODO
 
 [google-vit-code]: <https://github.com/google-research/vision_transformer>
 [google-vit-paper]: <https://arxiv.org/abs/2010.11929>
+[google-vit-colab]: <https://colab.research.google.com/github/google-research/vision_transformer/blob/master/vit_jax.ipynb>
 
 [openai-clip]: <https://github.com/openai/CLIP>
 [openai-blog]: <https://openai.com/blog/clip/>
