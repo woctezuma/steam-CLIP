@@ -76,6 +76,7 @@ TODO
     - [Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.][openai-paper]      
 -   My usage of CLIP:
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
+    - [`heroku-clip`][heroku-app-CLIP]: deploy CLIP on Heroku,
 -   MobileNet v3:
     - [`match-steam-banners`][banner-repository-mobilenet-v3]: retrieve games with similar banners, using MobileNet v3 (resolution 256),
 -   MobileNet v1:
@@ -109,6 +110,7 @@ TODO
 [openai-blog]: <https://openai.com/blog/clip/>
 [openai-paper]: <https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf>
 [openai-colab]: <https://colab.research.google.com/github/openai/clip/blob/master/Interacting_with_CLIP.ipynb>
+[heroku-app-CLIP]: <https://github.com/woctezuma/heroku-clip>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
 [banner-repository-mobilenet-v3]: <https://github.com/woctezuma/match-steam-banners>
 [banner-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-banners>
