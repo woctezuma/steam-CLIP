@@ -92,7 +92,7 @@ Direct links to similarity results are available below:
 -   a [grid of unique games](https://github.com/woctezuma/steam-CLIP/wiki/Grid-of-Unique-Games).
 
 For instance:
-![Unique vertical banners](https://github.com/woctezuma/match-steam-banners/wiki/img/unique_games.jpg)
+![Unique vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/unique_games.jpg)
 
 ## References
 
