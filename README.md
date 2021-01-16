@@ -57,11 +57,42 @@ Logs can be reproduced with [this Colab notebook][filter_out_steam_banners].
 
 ## Usage
 
-TODO
+Run [`match_steam_banners_with_CLIP.ipynb`][match_steam_banners_with_CLIP-notebook].
+[![Open In Colab][colab-badge]][match_steam_banners_with_CLIP-notebook]
+
+This will:
+-   compute and store the 512 features corresponding to each banner,
+-   find the **10** most similar store banners to curated query appIDs,
+-   find the **one** most similar store banner to all appIDs available on the store, then display the most unique games.
+
+NB: by default, query appIDs consist of:
+-   the top 100 most played games during the past two weeks, according to [SteamSpy][steamspy-api],
+-   a few manually curated games.
+
+NB: *unique* games are ones which are the most dissimilar (low similarity score) to others to their first neighbor.
 
 ## Results
 
-TODO
+Results obtained with [OpenAI's CLIP][openai-clip] are shown [on the Wiki][my-wiki].
+
+The linked pages contain a lot of images and might be slow to load depending on your Internet bandwidth.
+
+### Similar games
+
+Direct links to similarity results are available below:
+-   for each game, find [the 10 most similar games](https://github.com/woctezuma/steam-CLIP/wiki/Benchmark-top100).
+
+For instance:
+![Similar vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/similar_games.jpg)
+
+### Unique games
+
+Direct links to similarity results are available below:
+-   for each unique game, display [the 1 most similar game](https://github.com/woctezuma/steam-CLIP/wiki/Unique-Games),
+-   a [grid of unique games](https://github.com/woctezuma/steam-CLIP/wiki/Grid-of-Unique-Games).
+
+For instance:
+![Unique vertical banners](https://github.com/woctezuma/match-steam-banners/wiki/img/unique_games.jpg)
 
 ## References
 
@@ -96,6 +127,7 @@ TODO
 [codacy]: <https://www.codacy.com/app/woctezuma/steam-CLIP>
 [codacy-image]: <https://api.codacy.com/project/badge/Grade/72fecbb5ff4e40a894849f26c00a5cdf>
 
+[my-wiki]: <https://github.com/woctezuma/steam-CLIP/wiki>
 [wiki-cover]: <https://github.com/woctezuma/steam-CLIP/wiki/img/illustration.jpg>
 [download-python]: <https://www.python.org/downloads/>
 [banner-data-repository]: <https://github.com/woctezuma/download-steam-banners-data>
@@ -118,5 +150,7 @@ TODO
 [banner-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-banners>
 [screenshot-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-screenshots>
 
+[steamspy-api]: <https://github.com/woctezuma/steamspypi>
+[match_steam_banners_with_CLIP-notebook]: <https://colab.research.google.com/github/woctezuma/steam-CLIP/blob/main/match_steam_banners_with_CLIP.ipynb>
 [filter_out_steam_banners]: <https://colab.research.google.com/github/woctezuma/steam-CLIP/blob/main/filter_out_steam_banners.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
