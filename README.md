@@ -73,6 +73,8 @@ NB: *unique* games are ones which are the most dissimilar (low similarity score)
 
 ## Results
 
+The CLIP embedding for the ~30k banners is shared [on Google Drive][gdrive-CLIP-embedding].
+
 Results obtained with [OpenAI's CLIP][openai-clip] are shown [on the Wiki][my-wiki].
 
 The linked pages contain a lot of images and might be slow to load depending on your Internet bandwidth.
@@ -133,6 +135,7 @@ For instance:
 [banner-data-repository]: <https://github.com/woctezuma/download-steam-banners-data>
 [download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
 
+[gdrive-CLIP-embedding]: <https://drive.google.com/drive/folders/1GcaB03wqPBsO1NpTEx0fUDmytl-WS8N7>
 [gdrive-banner-data]: <https://drive.google.com/drive/folders/1BU8R1JMdzOqc4pzEkpQY6w6FuaretxUH>
 [steam-store-snapshots]: <https://github.com/woctezuma/steam-store-snapshots>
 
