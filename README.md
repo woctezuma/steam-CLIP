@@ -1,8 +1,10 @@
 # Steam CLIP: match Steam Banners with OpenAI's CLIP
 
+<!--
 [![Build status with Github Action][build-image-action]][build-action]
 [![Code coverage][codecov-image]][codecov]
 [![Code Quality][codacy-image]][codacy]
+-->
 
 This repository contains Python code to retrieve Steam games with similar store banners, using [OpenAI's CLIP][openai-clip].
 
