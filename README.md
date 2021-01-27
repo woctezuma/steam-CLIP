@@ -75,7 +75,7 @@ NB: *unique* games are ones which are the most dissimilar (low similarity score)
 
 Results can be interactively explored with web apps:
 -   [using an appID][web-app-using-id],
--   [using a text query][web-app-using-text].
+-   [using a dropdown menu][web-app-using-text].
 
 ## Results
 
