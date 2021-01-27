@@ -71,6 +71,12 @@ NB: by default, query appIDs consist of:
 
 NB: *unique* games are ones which are the most dissimilar (low similarity score) to others to their first neighbor.
 
+## Web apps
+
+Results can be interactively explored with web apps:
+-   [using an appID][web-app-using-id],
+-   [using a text query][web-app-using-text].
+
 ## Results
 
 The CLIP embedding for the ~30k banners is shared [on Google Drive][gdrive-CLIP-embedding].
@@ -154,6 +160,9 @@ For instance:
 [banner-repository-mobilenet-v3]: <https://github.com/woctezuma/match-steam-banners>
 [banner-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-banners>
 [screenshot-repository-mobilenet-v1]: <https://github.com/woctezuma/download-steam-screenshots>
+
+[web-app-using-id]: <https://damp-brushlands-51855.herokuapp.com/render/1091500/>
+[web-app-using-text]: <https://woctezuma.github.io/steam-svelte-autocomplete/index.html>
 
 [steamspy-api]: <https://github.com/woctezuma/steamspypi>
 [match_steam_banners_with_CLIP-notebook]: <https://colab.research.google.com/github/woctezuma/steam-CLIP/blob/main/match_steam_banners_with_CLIP.ipynb>
