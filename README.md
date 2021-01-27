@@ -117,6 +117,7 @@ For instance:
     - [Radford, Alec, et al. *Learning Transferable Visual Models From Natural Language Supervision*. arXiv 2021.][openai-paper]      
 -   My usage of CLIP:
     - [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar banners, using OpenAI's CLIP (resolution 224),
+    - [`steam-image-search`][natural-language-search]: retrieve games using natural language queries,
     - [`heroku-flask-api`][my-flask-API]: serve the matching results through an API built with Flask on Heroku,
     - [`heroku-clip`][heroku-app-CLIP]: deploy CLIP on Heroku,
 -   MobileNet v3:
@@ -163,6 +164,7 @@ For instance:
 
 [web-app-using-id]: <https://damp-brushlands-51855.herokuapp.com/render/1091500/>
 [web-app-using-text]: <https://woctezuma.github.io/steam-svelte-autocomplete/index.html>
+[natural-language-search]: <https://github.com/woctezuma/steam-image-search>
 
 [steamspy-api]: <https://github.com/woctezuma/steamspypi>
 [match_steam_banners_with_CLIP-notebook]: <https://colab.research.google.com/github/woctezuma/steam-CLIP/blob/main/match_steam_banners_with_CLIP.ipynb>
