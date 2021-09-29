@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 CLIP is a neural network:
 - combining an image encoder (either `ResNet` or Vision Transformer `ViT`) and a text encoder (Transformer),
-- trained on the WebImageText (WIT) dataset, consisting of 400 million (image, text) pairs.
+- pre-trained on the WebImageText (WIT) dataset, consisting of 400 million (image, text) pairs.
 
 In this repository, the image encoder is `ViT-B/32`.
 
