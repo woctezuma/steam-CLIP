@@ -22,6 +22,14 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+## Model
+
+CLIP is a neural network:
+- combining an image encoder (either `ResNet` or Vision Transformer `ViT`) and a text encoder (Transformer),
+- trained on the WebImageText (WIT) dataset, consisting of 400 million (image, text) pairs.
+
+In this repository, the image encoder is `ViT-B/32`.
+
 ## Data
 
 Data is available in [`download-steam-banners-data/`][banner-data-repository].
