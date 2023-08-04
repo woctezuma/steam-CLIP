@@ -93,14 +93,14 @@ Results obtained with [OpenAI's CLIP][openai-clip] are shown [on the Wiki][my-wi
 
 The linked pages contain a lot of images and might be slow to load depending on your Internet bandwidth.
 
-### Similar games
-
 > **Note**
 > As noticed on January 16, 2021 [in the #1 issue][clip-image-similarity-issue] in the official repository of `openai/CLIP`, image similarity is driven by the text present in the images.
 > This was then officially discussed by OpenAI on March 4, 2021 [on the Distill website][multimodal-neurons-distill] and [in a blog post][multimodal-neurons-blog].
 > This remark also appears in Figure 5 (now 6) of [the DALL·E 2 paper][dalle-e-2-paper-arxiv] published on April 13, 2022.
 
 ![DALL·E 2](https://github.com/woctezuma/steam-CLIP/wiki/img/dall-e-2.jpg)
+
+### Similar games
 
 Direct links to similarity results are available below:
 -   for each game, find [the 10 most similar games](https://github.com/woctezuma/steam-CLIP/wiki/Benchmark-top100).
