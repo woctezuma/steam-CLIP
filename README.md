@@ -156,6 +156,83 @@ NBA / 2K
 
 ![NBA 2K](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/nba_2k.jpg)
 
+#### Logos
+
+The model relies on words present in the images, as shown in the following examples.
+
+Civilization / Civ / tion
+
+![Civilization](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/civ_tion.jpg)
+
+Dawn
+
+![Dawn](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dawn.jpg)
+
+Dead / Light
+
+![Dead / Light](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dead_light.jpg)
+
+Don't / Together
+
+![Don't / Together](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dont_together.jpg)
+
+Forest
+
+![Forest](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/forest.jpg)
+
+Heroes
+
+![Heroes](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/heroes.jpg)
+
+Hunt
+
+![Hunt](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/hunt.jpg)
+
+Legend
+
+![Legend](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/legend.jpg)
+
+Life / Strange
+
+![Life / Strange](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/life_strange.jpg)
+
+Monster / Hunt
+
+![Monster / Hunt](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/monster_hunt.jpg)
+
+Planet
+
+![Planet](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/planet.jpg)
+
+Portal
+
+![Portal](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/portal.jpg)
+
+Rain
+
+![Rain](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/rain.jpg)
+
+Secret / Lab
+
+![Secret / Lab](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/secret_lab.jpg)
+
+Story
+
+![Story](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/story.jpg)
+
+Story (again)
+
+![Story (again)](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/story_2.jpg)
+
+Truck
+
+![Truck](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/truck.jpg)
+
+Ust
+
+![Ust](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/ust.jpg)
+
+
 ### Unique games
 
 Direct links to similarity results are available below:
