@@ -87,11 +87,21 @@ Results can be interactively explored with web apps:
 
 ## Results
 
+- [Caveat](#caveat)
+- [Similar games](#similar-games)
+  - [the same franchise](#logos)
+  - [A common word](#words)
+- [Unique games](#unique-games)
+
+---
+
 The CLIP embedding for the ~30k banners is shared [on Google Drive][gdrive-CLIP-embedding].
 
 Results obtained with [OpenAI's CLIP][openai-clip] are shown [on the Wiki][my-wiki].
 
 The linked pages contain a lot of images and might be slow to load depending on your Internet bandwidth.
+
+### Caveat
 
 > **Note**
 > As noticed on January 16, 2021 [in the #1 issue][clip-image-similarity-issue] in the official repository of `openai/CLIP`, image similarity is driven by the text present in the images.
