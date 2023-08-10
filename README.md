@@ -160,6 +160,14 @@ NBA / 2K
 
 The model relies on words present in the images, as shown in the following examples.
 
+Forest
+
+![Forest](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/forest.jpg)
+
+Legend
+
+![Legend](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/legend.jpg)
+
 Civilization / Civ / tion
 
 ![Civilization](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/civ_tion.jpg)
@@ -176,10 +184,6 @@ Don't / Together
 
 ![Don't / Together](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dont_together.jpg)
 
-Forest
-
-![Forest](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/forest.jpg)
-
 Heroes
 
 ![Heroes](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/heroes.jpg)
@@ -187,10 +191,6 @@ Heroes
 Hunt
 
 ![Hunt](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/hunt.jpg)
-
-Legend
-
-![Legend](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/legend.jpg)
 
 Life / Strange
 
