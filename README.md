@@ -108,6 +108,54 @@ Direct links to similarity results are available below:
 For instance:
 ![Similar vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/similar_games.jpg)
 
+#### Logos
+
+The model is able to retrieve games from the same franchise.
+
+Arma / Army / Arms
+
+![Arma](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/arma.jpg)
+
+Borderlands / Land
+
+![Borderlands](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/borderlands.jpg)
+
+Braveland / Capital "B" letter
+
+![Braveland](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/braveland.jpg)
+
+Call of Duty
+
+![Call of Duty](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/cod.jpg)
+
+Age of Empires / Empire(s) / Emperor
+
+![Age of Empires](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/empire.jpg)
+
+Fallout
+
+![Fallout](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/fallout.jpg)
+
+Grand Theft Auto
+
+![Grand Theft Auto](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/gta.jpg)
+
+Guacamelee
+
+![Guacamelee](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/guacamelee.jpg)
+
+Hitman
+
+![Hitman](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/hitman.jpg)
+
+λ / Half-Life / Hal
+
+![λ](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/lambda.jpg)
+
+NBA / 2K
+
+![NBA 2K](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/nba_2k.jpg)
+
 ### Unique games
 
 Direct links to similarity results are available below:
