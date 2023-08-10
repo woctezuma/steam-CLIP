@@ -118,15 +118,27 @@ Direct links to similarity results are available below:
 For instance:
 ![Similar vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/similar_games.jpg)
 
+---
+
 ![Fall Guys](https://github.com/woctezuma/steam-CLIP/wiki/img/fall_guys.jpg)
+
+---
 
 ![Ring of Elysium](https://github.com/woctezuma/steam-CLIP/wiki/img/ring_of_elysium.jpg)
 
+---
+
 ![Chivalry](https://github.com/woctezuma/steam-CLIP/wiki/img/chivalry.jpg)
+
+---
 
 ![Call of Duty](https://github.com/woctezuma/steam-CLIP/wiki/img/cod.jpg)
 
+---
+
 ![Day of Defeat](https://github.com/woctezuma/steam-CLIP/wiki/img/day_of_defeat.jpg)
+
+---
 
 Cities
 
