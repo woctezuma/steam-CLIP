@@ -108,6 +108,18 @@ Direct links to similarity results are available below:
 For instance:
 ![Similar vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/similar_games.jpg)
 
+Cities
+
+![Dinosaurs](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/cities.jpg)
+
+Dinosaurs
+
+![Dinosaurs](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/ark.jpg)
+
+WWII / Heroes / War / W
+
+![War](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/war.jpg)
+
 #### Logos
 
 The model is able to retrieve games from the same franchise.
