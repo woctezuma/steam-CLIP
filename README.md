@@ -118,6 +118,16 @@ Direct links to similarity results are available below:
 For instance:
 ![Similar vertical banners](https://github.com/woctezuma/steam-CLIP/wiki/img/similar_games.jpg)
 
+![Fall Guys](https://github.com/woctezuma/steam-CLIP/wiki/img/fall_guys.jpg)
+
+![Ring of Elysium](https://github.com/woctezuma/steam-CLIP/wiki/img/ring_of_elysium.jpg)
+
+![Chivalry](https://github.com/woctezuma/steam-CLIP/wiki/img/chivalry.jpg)
+
+![Call of Duty](https://github.com/woctezuma/steam-CLIP/wiki/img/cod.jpg)
+
+![Day of Defeat](https://github.com/woctezuma/steam-CLIP/wiki/img/day_of_defeat.jpg)
+
 Cities
 
 ![Dinosaurs](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/cities.jpg)
@@ -250,13 +260,25 @@ Truck
 
 ![Truck](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/truck.jpg)
 
+Black
+
+![Black](https://github.com/woctezuma/steam-CLIP/wiki/img/black_squad.jpg)
+
 Ust
 
 ![Ust](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/ust.jpg)
 
 Dead
 
-![Ust](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dead.jpg)
+![Dead](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dead.jpg)
+
+Valley
+
+![Dead](https://github.com/woctezuma/steam-CLIP/wiki/img/stardew_valley.jpg)
+
+The absence of words allows to retrieve similar image content.
+
+![Tanks](https://github.com/woctezuma/steam-CLIP/wiki/img/tanks.jpg)
 
 ### Unique games
 
