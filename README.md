@@ -232,6 +232,9 @@ Ust
 
 ![Ust](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/ust.jpg)
 
+Dead
+
+![Ust](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/words/dead.jpg)
 
 ### Unique games
 
