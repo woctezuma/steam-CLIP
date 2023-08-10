@@ -156,7 +156,7 @@ NBA / 2K
 
 ![NBA 2K](https://github.com/woctezuma/steam-CLIP/wiki/img_2023/logo/nba_2k.jpg)
 
-#### Logos
+#### Words
 
 The model relies on words present in the images, as shown in the following examples.
 
