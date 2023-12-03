@@ -103,7 +103,7 @@ The linked pages contain a lot of images and might be slow to load depending on 
 
 ### Caveat
 
-> **Note**
+> [!Note]
 > As noticed on January 16, 2021 [in the #1 issue][clip-image-similarity-issue] in the official repository of `openai/CLIP`, image similarity is driven by the text present in the images.
 > This was then officially discussed by OpenAI on March 4, 2021 [on the Distill website][multimodal-neurons-distill] and [in a blog post][multimodal-neurons-blog].
 > This remark also appears in Figure 5 (now 6) of [the DALL·E 2 paper][dalle-e-2-paper-arxiv] published on April 13, 2022.
